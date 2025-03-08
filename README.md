@@ -79,18 +79,10 @@ A screen recording demonstrating all functionalities is provided below:
 ## Screenshots
 
 - **Sign In Screen**  
-  ![Sign In Screen](screenshots/Login.png)
+  ![Sign In Screen](src/screenshots/Login.png)
 
 - **Dashboard Screen**  
-  ![Dashboard Screen](screenshots/dash_board.png)
+  ![Dashboard Screen](src/screenshots/dash_board.png)
 
 - **Transaction Details Screen**  
-  ![Transaction Details Screen](screenshots/transaction_details.png)
-
----
-
-## Future Improvements
-- **User Authentication**: Implement secure authentication using Firebase or another backend service.
-- **Data Persistence**: Store transactions in a database (e.g., Firebase Firestore or SQLite).
-- **Advanced Analytics**: Add more detailed charts and reports for better financial insights.
-- **Multi-User Support**: Allow multiple users to manage their own transactions.
+  ![Transaction Details Screen](src/screenshots/transaction_details.png)
