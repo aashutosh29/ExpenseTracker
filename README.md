@@ -79,10 +79,10 @@ A screen recording demonstrating all functionalities is provided below:
 ## Screenshots
 
 - **Sign In Screen**  
-  ![Sign In Screen](src/screenshots/Login.png)
+  <img src="src/screenshots/Login.png" width="300"/>
 
 - **Dashboard Screen**  
-  ![Dashboard Screen](src/screenshots/dash_board.png)
+  <img src="src/screenshots/dash_board.png" width="300"/>
 
 - **Transaction Details Screen**  
-  ![Transaction Details Screen](src/screenshots/transaction_details.png)
+  <img src="src/screenshots/transaction_details.png" width="300"/>
